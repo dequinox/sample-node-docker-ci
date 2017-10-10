@@ -14,6 +14,6 @@ express()
       return;
     }
 
-    console.log("Express Server listening on port 80");
+    console.log("Continuous integration and deployment lab finished");
   })
 ;
