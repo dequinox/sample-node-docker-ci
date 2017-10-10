@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo docker build -t alnair/sample-node .
 sudo docker push alnair/sample-node
 
 ssh alikhil@35.187.72.88 << EOF
